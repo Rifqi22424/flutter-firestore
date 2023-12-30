@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455253953015",
+    "project_id": "example-nusaputra",
+    "storage_bucket": "example-nusaputra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455253953015:android:812c91b5c21fa816a886f2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALnFaVRLv_C59WQ9jCL_S7Kj4g0CpNPew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
